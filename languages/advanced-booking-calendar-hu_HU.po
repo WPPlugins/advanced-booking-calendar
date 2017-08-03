@@ -1,0 +1,211 @@
+# Translation of Plugins - Advanced Booking Calendar - Development (trunk) in Hungarian
+# This file is distributed under the same license as the Plugins - Advanced Booking Calendar - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-06 07:39+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"Language: hu\n"
+"Project-Id-Version: Plugins - Advanced Booking Calendar - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: backend/settings.php:973
+msgid "Changes have been saved!"
+msgstr "Változtatások elmentve!"
+
+#: backend/settings.php:972
+msgid "Saving"
+msgstr "Mentés"
+
+#: backend/settings.php:890
+msgid "Please save any changes before selecting a new language!"
+msgstr "Kérem mentse el az elvégzett módosításokat, mielőtt új nyelvet választ!"
+
+#: backend/settings.php:887
+msgid "Select language"
+msgstr "Válasszon nyelvet"
+
+#: backend/extras.php:361 backend/settings.php:873
+msgid "Use discount code <b>BASICUPGRADE</b> to save 10€."
+msgstr "10€ kedvezmény a következő kupon kód használatával: <b>KUPONKOD</b>"
+
+#: backend/extras.php:360
+msgid "Take a look at our <a target=\"_blank\" href=\"https://www.booking-calendar-plugin.com/pro-download/?cmp=DiscountCodes\">Pro Version</a>!"
+msgstr "Tekintse meg a plugin<a target=\"_blank\" href=\"https://www.booking-calendar-plugin.com/pro-download/?cmp=DiscountCodes\">teljes változatát</a>!"
+
+#: backend/extras.php:358
+msgid "Do you want to promote your business using discount codes?"
+msgstr "Szeretné népszerűsíteni vállalkozását kedvezményes kódok használatával?"
+
+#: backend/bookings.php:422 backend/bookings.php:427
+msgid "Created at"
+msgstr "Készült"
+
+#: backend/bookings.php:389
+msgid "Sorting"
+msgstr "Rendezés"
+
+#: backend/settings.php:436
+msgid "New text labels have been saved."
+msgstr "Új címkék elmentve."
+
+#: backend/settings.php:893 backend/settings.php:899 backend/settings.php:905
+#: backend/settings.php:911 backend/settings.php:917 backend/settings.php:923
+#: backend/settings.php:929 backend/settings.php:935 backend/settings.php:941
+#: backend/settings.php:947 backend/settings.php:953 backend/settings.php:959
+#: backend/settings.php:965
+msgid "Text for:"
+msgstr "Üzenet:"
+
+#: backend/settings.php:885
+msgid "You can change the label of buttons in the booking form. Leave these fields empty to use default labels."
+msgstr "A gombok feliratait a foglalási űrlapon változtathatja meg. Hagyja üresen ezt a mezőt az alapértelmezett címkék használatához."
+
+#: backend/settings.php:539 backend/settings.php:884
+msgid "Text Customization"
+msgstr "Szöveg Testreszabása"
+
+#: backend/tinymce-translations.php:18
+msgid "Single Calendar"
+msgstr "Egyszerű Naptár"
+
+#: backend/tinymce-translations.php:17
+msgid "Show legend"
+msgstr "Magyarázat megjelenítése"
+
+#: backend/tinymce-translations.php:15
+msgid "Add Single Calendar"
+msgstr "Naptár hozzáadása"
+
+#: backend/tinymce-translations.php:14
+msgid "Calendar Overview"
+msgstr "Naptárak áttekintése"
+
+#: backend/tinymce-translations.php:11
+msgid "Booking Form"
+msgstr "Foglalási Űrlap"
+
+#: functions.php:1118
+msgid "Once Weekly"
+msgstr "Egyszer egy héten"
+
+#: functions.php:759
+msgid "To"
+msgstr "Címzett"
+
+#: functions.php:758
+msgid "From"
+msgstr "Feladó"
+
+#: functions.php:610
+msgid "New Booking - Already paid"
+msgstr "Új foglalás - Előre fizetett"
+
+#: functions.php:478
+msgid "No discount."
+msgstr "Nincs kedvezmény."
+
+#: frontend/bookingform.php:782
+msgid "Description"
+msgstr "Leírás"
+
+#: frontend/bookingform.php:781
+msgid "Error Code"
+msgstr "Hiba kód"
+
+#: frontend/bookingform.php:771
+msgid "Please continue to PayPal to validate your booking."
+msgstr "Kérem lépjen a PayPal oldalra, hogy érvényesítse foglalását"
+
+#: frontend/bookingform.php:771
+msgid "We have received your booking request."
+msgstr "Szállodánk megkapta foglalását."
+
+#: frontend/bookingform.php:770
+msgid "Direct link to PayPal"
+msgstr "Közvetlen link a PayPal fizetéshez"
+
+#: frontend/bookingform.php:770
+msgid "You will be redirected to PayPal in 5 seconds.<br/>You can also click here: "
+msgstr "Önt most átirányítjuk a PayPal fizető oldalára. <br/>Ha a weboldal 5 másodpercen belül nem frissül, kattintson ide:"
+
+#: frontend/bookingform.php:580
+msgid "Thank you for your booking!"
+msgstr "Köszönjük foglalását!"
+
+#: frontend/bookingform.php:502
+msgid "Your booking has been canceled."
+msgstr "Foglalását töröltük."
+
+#: frontend/bookingform.php:454 functions.php:769
+msgid "Payment Selection"
+msgstr "Válassza ki a fizetési módot"
+
+#: backend/settings.php:911 functions.php:27
+msgid "Other available rooms for your stay"
+msgstr "További elérhető szobák a megadott dátumon"
+
+#: backend/settings.php:905 functions.php:24
+msgid "Selected room"
+msgstr "Választott szoba"
+
+#: backend/settings.php:872
+msgid "If you are looking for a <strong>PayPal</strong> integration, please take a look at our <a href=\"https://booking-calendar-plugin.com/pro-download/?cmp=PayPalSetting\" target=\"_blank\">Pro-Version</a>."
+msgstr "PayPal beépülő használatához, kérem, tekintse meg <a href=\"https://booking-calendar-plugin.com/pro-download/?cmp=PayPalSetting\" target=\"_blank\"> Teljes verziónkat.</a>"
+
+#: backend/settings.php:862
+msgid "On Invoice Payment Text (shown in booking form)"
+msgstr "On Invoice Payment Text (shown in booking form)"
+
+#: backend/settings.php:845
+msgid "Cash onsite Text (shown in booking form)"
+msgstr "Fizetés készpénzben a helyszínen"
+
+#: backend/settings.php:656
+msgid "If enabled, you will help us to make this plugin better by committing some usage data."
+msgstr "Felhasználási adatok gyűjtésének engedélyezésével segíti a plugin fejlesztését."
+
+#: backend/settings.php:650
+msgid "Commit Usage Data"
+msgstr "Felhasználási adatok megosztása"
+
+#: backend/settings.php:646
+msgid "If enabled, the data created by this plugin will be deleted when uninstalling the plugin."
+msgstr "A plugin által generált felhasználási adatok törlése a plugin törlésekor."
+
+#: backend/settings.php:640
+msgid "Delete Data on Uninstall"
+msgstr "Felhasználási adatok törlése a plugin törlésével."
+
+#: backend/settings.php:538 backend/settings.php:831
+msgid "Payment Settings"
+msgstr "Fizetési beállítások"
+
+#: backend/settings.php:467
+msgid "License was successfully activated."
+msgstr "Liszensz aktiválva"
+
+#: backend/settings.php:460
+msgid "Unable to activate the selected Payment Gateway. The selected Booking Form Page is invalid."
+msgstr "A választott fizetési mód aktiválása sikertelen. A választott foglalási lap hibás."
+
+#: backend/settings.php:456
+msgid "Error while saving Payment Settings. Please fill out all required fields for"
+msgstr "Fizetési beállítások mentése sikertelen. Kérem töltsön ki minden kötelező mezőt!"
+
+#: backend/settings.php:441
+msgid "Payment Settings have been saved."
+msgstr "Fizetési beállítások mentve."
+
+#: backend/settings.php:424
+msgid "Great! The page you selected contains the booking form shortcode."
+msgstr "Nagyszerű! A választott oldal tartalmazza a foglalási űrlap azonosítóját."
+
+#: backend/settings.php:422
+msgid "Warning! The page you selected does not contain the booking form shortcode. Please add the shortcode [abc-bookingform] or some functions may not work properly."
+msgstr "Figyelmeztetés! A választott oldal nem tartalmazza a foglalási űrlap azonosítóját. Kérem adja hozzá az azonosítót [abc-bookingform]."
